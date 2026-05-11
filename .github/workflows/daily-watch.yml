@@ -1,0 +1,41 @@
+name: Daily Anthropic Watch
+
+on:
+  schedule:
+    - cron: '30 21 * * *'  # 6:30 JST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v4
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run anthropic-watch
+        run: uv run python -m src.main
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit and push results
+        run: |
+          git config user.name "anthropic-watch[bot]"
+          git config user.email "anthropic-watch[bot]@users.noreply.github.com"
+          git add state/ docs/
+          git diff --cached --quiet || git commit -m "daily update: $(date -u +%Y-%m-%d)"
+          git push

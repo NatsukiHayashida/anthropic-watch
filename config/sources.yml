@@ -1,0 +1,23 @@
+# anthropic-watch RSS情報源
+# 公式RSSは2026年5月時点で提供なし。コミュニティ維持フィードを使用。
+# ref: https://github.com/taobojlen/anthropic-rss-feed
+
+official:
+  - name: "Anthropic News"
+    url: "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_news_rss.xml"
+    category: "公式"
+  - name: "Anthropic Engineering"
+    url: "https://raw.githubusercontent.com/taobojlen/anthropic-rss-feed/main/anthropic_engineering_rss.xml"
+    category: "公式"
+
+# Phase 4で追加
+# media:
+#   - name: "Simon Willison"
+#     url: "https://simonwillison.net/atom/everything/"
+#     category: "海外メディア"
+#   - name: "Latent Space"
+#     url: "https://www.latent.space/feed"
+#     category: "海外メディア"
+#   - name: "Hacker News (Anthropic/Claude)"
+#     url: "https://hnrss.org/newest?q=Anthropic+OR+Claude"
+#     category: "海外メディア"
