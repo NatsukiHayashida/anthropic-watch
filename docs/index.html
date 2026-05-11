@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Anthropic Watch</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; line-height: 1.6; padding: 2rem 1rem; }
+  .container { max-width: 720px; margin: 0 auto; }
+  h1 { font-size: 1.5rem; color: #60a5fa; margin-bottom: 0.25rem; }
+  .date { color: #94a3b8; font-size: 0.9rem; margin-bottom: 1.5rem; }
+  .summary { background: #1e293b; border-left: 4px solid #60a5fa; padding: 0.75rem 1rem; border-radius: 0 8px 8px 0; margin-bottom: 2rem; font-weight: 600; }
+  .section-title { font-size: 1.1rem; font-weight: 700; margin: 1.5rem 0 0.75rem; padding-bottom: 0.25rem; border-bottom: 1px solid #334155; }
+  .high .section-title { color: #f87171; }
+  .medium .section-title { color: #fbbf24; }
+  .low .section-title { color: #94a3b8; }
+  .item { background: #1e293b; border-radius: 8px; padding: 1rem; margin-bottom: 0.75rem; }
+  .item-header { display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap; margin-bottom: 0.5rem; }
+  .badge { font-size: 0.7rem; padding: 2px 8px; border-radius: 12px; font-weight: 600; }
+  .high .badge { background: #991b1b; color: #fca5a5; }
+  .medium .badge { background: #92400e; color: #fde68a; }
+  .item-summary { font-weight: 600; font-size: 0.95rem; margin-bottom: 0.5rem; }
+  .item-summary a { color: #e2e8f0; text-decoration: none; }
+  .item-summary a:hover { color: #60a5fa; text-decoration: underline; }
+  .hint { font-size: 0.85rem; color: #a5b4fc; margin-top: 0.4rem; }
+  .hint::before { content: "🎯 "; }
+  .seed { font-size: 0.85rem; color: #86efac; margin-top: 0.3rem; }
+  .seed::before { content: "📝 "; }
+  .low-list { background: #1e293b; border-radius: 8px; padding: 0.75rem 1rem; }
+  .low-list li { margin: 0.3rem 0; font-size: 0.9rem; }
+  .low-list a { color: #94a3b8; text-decoration: none; }
+  .low-list a:hover { color: #60a5fa; text-decoration: underline; }
+  .empty { text-align: center; padding: 3rem; color: #64748b; font-size: 1.1rem; }
+  .loading { text-align: center; padding: 3rem; color: #64748b; }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>🟦 Anthropic Watch</h1>
+  <div class="date" id="date">読み込み中...</div>
+  <div id="content"><div class="loading">データを取得中...</div></div>
+</div>
+<script>
+fetch('./daily-output.json?' + Date.now())
+  .then(r => r.json())
+  .then(render)
+  .catch(() => {
+    document.getElementById('content').innerHTML = '<div class="empty">データの取得に失敗しました</div>';
+  });
+
+function render(d) {
+  document.getElementById('date').textContent = d.date + ' 生成';
+  if (!d.has_content) {
+    document.getElementById('content').innerHTML = '<div class="empty">本日新着なし</div>';
+    return;
+  }
+  let html = '<div class="summary">' + esc(d.summary_line) + '</div>';
+
+  if (d.items_high.length) {
+    html += '<div class="high"><div class="section-title">🔴 高重要度</div>';
+    d.items_high.forEach(i => { html += itemCard(i, 'high'); });
+    html += '</div>';
+  }
+  if (d.items_medium.length) {
+    html += '<div class="medium"><div class="section-title">🟡 中重要度</div>';
+    d.items_medium.forEach(i => { html += itemCard(i, 'medium'); });
+    html += '</div>';
+  }
+  if (d.items_low_titles.length) {
+    html += '<div class="low"><div class="section-title">⚪ その他</div><ul class="low-list">';
+    d.items_low_titles.forEach(i => {
+      html += '<li><a href="' + esc(i.url) + '" target="_blank">' + esc(i.title) + '</a></li>';
+    });
+    html += '</ul></div>';
+  }
+  document.getElementById('content').innerHTML = html;
+}
+
+function itemCard(item, level) {
+  let h = '<div class="item"><div class="item-header">';
+  (item.categories || []).forEach(c => {
+    h += '<span class="badge">' + esc(c) + '</span>';
+  });
+  h += '</div>';
+  h += '<div class="item-summary"><a href="' + esc(item.url) + '" target="_blank">' + esc(item.summary) + '</a></div>';
+  if (item.translation_hint) h += '<div class="hint">' + esc(item.translation_hint) + '</div>';
+  if (item.connection_note_seed) h += '<div class="seed">' + esc(item.connection_note_seed) + '</div>';
+  h += '</div>';
+  return h;
+}
+
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+</script>
+</body>
+</html>
