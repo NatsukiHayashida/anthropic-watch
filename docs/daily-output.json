@@ -1,9 +1,31 @@
 {
-  "date": "2026-05-14",
-  "generated_at": "2026-05-14T06:56:34.675548+09:00",
-  "summary_line": "本日Anthropic新着なし",
-  "items_high": [],
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T06:52:04.997082+09:00",
+  "summary_line": "本日Anthropic新着: 高2件 / 中0件 / 低0件",
+  "items_high": [
+    {
+      "importance": "high",
+      "categories": [
+        "新機能",
+        "モデル"
+      ],
+      "summary": "Anthropicが中小企業向けClaudeプランを新たに発表",
+      "translation_hint": "pj AI提案6月ピッチの '試す' フレーム強化材料。飯塚製作所規模感での導入コスト試算スライドに追加候補",
+      "connection_note_seed": "中小製造業へのAI展開モデルとして、冷間鍛造・金型業界の横展開パターンを考える起点になりうる",
+      "url": "https://www.anthropic.com/news/claude-for-small-business"
+    },
+    {
+      "importance": "high",
+      "categories": [
+        "業界動向"
+      ],
+      "summary": "AnthropicがゲイツFC財団と2億ドルの大型パートナーシップを締結",
+      "translation_hint": null,
+      "connection_note_seed": "ゲイツ財団×AI：グローバルヘルス・社会課題へのAI適用という文脈で、社会福祉領域への関心と接続できる。因果推論ベースの政策評価とAI評価指標の交差点として掘り下げ候補",
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership"
+    }
+  ],
   "items_medium": [],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }
