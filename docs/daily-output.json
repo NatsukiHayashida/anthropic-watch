@@ -1,21 +1,9 @@
 {
-  "date": "2026-05-16",
-  "generated_at": "2026-05-16T06:47:03.255508+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "業界動向",
-        "モデル"
-      ],
-      "summary": "PwCがClaudeを大規模展開、技術構築・M&A支援・企業機能刷新に活用",
-      "translation_hint": "pj AI提案の '試す・残す' フレーム強化材料。大手コンサルがClaudeを基幹業務に組み込んだ事例として6月ピッチのStep1〜2枚目に追加候補",
-      "connection_note_seed": "PwCのような大手プロフェッショナルファームが『ディール実行』にAIを組み込む構造は、冷間鍛造業界の設備投資判断やサプライヤー評価プロセスへのAI援用と接続できる。編集工学的に言えば『知の編集者としてのAI』が専門家業務に入り込む転換点",
-      "url": "https://www.anthropic.com/news/pwc-expanded-partnership"
-    }
-  ],
+  "date": "2026-05-17",
+  "generated_at": "2026-05-17T06:45:27.968310+09:00",
+  "summary_line": "本日Anthropic新着なし",
+  "items_high": [],
   "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
