@@ -1,18 +1,18 @@
 {
-  "date": "2026-05-19",
-  "generated_at": "2026-05-19T06:52:01.571792+09:00",
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T06:57:07.344275+09:00",
   "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
   "items_high": [
     {
       "importance": "high",
       "categories": [
         "業界動向",
-        "新機能"
+        "モデル"
       ],
-      "summary": "AnthropicがAPI SDK自動生成企業Stainlessを買収",
-      "translation_hint": "pj AI提案の '試す' フレーム強化材料。SDK整備によるAPI利用のしやすさをピッチ資料Step1に追加候補",
-      "connection_note_seed": "Stainless買収→SDKの自動生成技術は冷間鍛造の工程標準化（型設計→工程書の自動生成）と構造的に類似。'人間の職人知識をAPIに変換する' という編集工学的視点で接続可能",
-      "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+      "summary": "KPMGが27.6万人超の従業員にClaudeを全社導入する戦略的提携を締結",
+      "translation_hint": "pj AI提案の'残す'フレーム強化材料。大手プロフェッショナルファームの全社展開事例としてピッチStep2-3枚目に追加候補",
+      "connection_note_seed": "27万人規模の知識労働者へのAI統合は、編集工学的に見ると「組織の認知構造」の変容実験とも読める。飯塚製作所の小規模展開との対比で、leapfrog戦略の逆算設計に接続可能",
+      "url": "https://www.anthropic.com/news/anthropic-kpmg"
     }
   ],
   "items_medium": [],
