@@ -1,21 +1,21 @@
 {
-  "date": "2026-05-20",
-  "generated_at": "2026-05-20T06:57:07.344275+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
-  "items_high": [
+  "date": "2026-05-21",
+  "generated_at": "2026-05-21T07:05:17.521270+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "items_high": [],
+  "items_medium": [
     {
-      "importance": "high",
+      "importance": "medium",
       "categories": [
         "業界動向",
-        "モデル"
+        "その他"
       ],
-      "summary": "KPMGが27.6万人超の従業員にClaudeを全社導入する戦略的提携を締結",
-      "translation_hint": "pj AI提案の'残す'フレーム強化材料。大手プロフェッショナルファームの全社展開事例としてピッチStep2-3枚目に追加候補",
-      "connection_note_seed": "27万人規模の知識労働者へのAI統合は、編集工学的に見ると「組織の認知構造」の変容実験とも読める。飯塚製作所の小規模展開との対比で、leapfrog戦略の逆算設計に接続可能",
-      "url": "https://www.anthropic.com/news/anthropic-kpmg"
+      "summary": "フロンティアAIに関する議論の拡大をAnthropicが呼びかけ",
+      "translation_hint": "pj AI提案の社会的文脈スライドに引用候補。「AI開発の透明性・対話」訴求に使える",
+      "connection_note_seed": "編集工学的観点：「対話の場を設計する」こととフロンティアAIのガバナンス議論の構造的類似性。社会福祉領域での当事者参加型意思決定とも接続可",
+      "url": "https://www.anthropic.com/news/widening-conversation-ai"
     }
   ],
-  "items_medium": [],
   "items_low_titles": [],
   "has_content": true
 }
