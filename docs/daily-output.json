@@ -1,21 +1,9 @@
 {
-  "date": "2026-05-21",
-  "generated_at": "2026-05-21T07:05:17.521270+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-05-22",
+  "generated_at": "2026-05-22T06:59:25.448794+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "業界動向",
-        "その他"
-      ],
-      "summary": "フロンティアAIに関する議論の拡大をAnthropicが呼びかけ",
-      "translation_hint": "pj AI提案の社会的文脈スライドに引用候補。「AI開発の透明性・対話」訴求に使える",
-      "connection_note_seed": "編集工学的観点：「対話の場を設計する」こととフロンティアAIのガバナンス議論の構造的類似性。社会福祉領域での当事者参加型意思決定とも接続可",
-      "url": "https://www.anthropic.com/news/widening-conversation-ai"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
