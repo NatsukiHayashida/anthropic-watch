@@ -1,9 +1,21 @@
 {
-  "date": "2026-05-23",
-  "generated_at": "2026-05-23T06:50:26.114636+09:00",
-  "summary_line": "本日Anthropic新着なし",
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T06:46:13.544414+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
   "items_high": [],
-  "items_medium": [],
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "その他",
+        "業界動向"
+      ],
+      "summary": "Project Glasswingの初期アップデート報告（詳細不明）",
+      "translation_hint": null,
+      "connection_note_seed": null,
+      "url": "https://www.anthropic.com/research/glasswing-initial-update"
+    }
+  ],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }
