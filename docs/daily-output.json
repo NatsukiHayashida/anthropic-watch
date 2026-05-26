@@ -1,9 +1,27 @@
 {
-  "date": "2026-05-26",
-  "generated_at": "2026-05-26T06:51:59.239406+09:00",
-  "summary_line": "本日Anthropic新着なし",
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T07:01:36.389856+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低1件",
   "items_high": [],
-  "items_medium": [],
-  "items_low_titles": [],
-  "has_content": false
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "運用",
+        "セキュリティ",
+        "新機能"
+      ],
+      "summary": "Anthropicが複数プロダクト間でClaudeの動作をどう制御・封じ込めているかの技術解説",
+      "translation_hint": "pj AI提案の'試す・残す'フレーム補強材料。社内展開時のAI信頼性・制御性の根拠として6月ピッチのStep3に追加候補",
+      "connection_note_seed": "製造現場でのAI展開における「制御可能性」設計と冷間鍛造の公差管理思想の類比—どちらも「逸脱を許容範囲内に収める」アーキテクチャ",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+    }
+  ],
+  "items_low_titles": [
+    {
+      "title": "法王レオ14世の回勅「Magnifica humanitas」へのChris Olahのコメント",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
+    }
+  ],
+  "has_content": true
 }

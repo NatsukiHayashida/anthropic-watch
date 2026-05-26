@@ -219,7 +219,17 @@
       "title": "Project Glasswing: An initial update",
       "url": "https://www.anthropic.com/research/glasswing-initial-update",
       "seen_at": "2026-05-25T21:51:59.239644+00:00"
+    },
+    "1ab81ffc9fe4cf6c": {
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical",
+      "seen_at": "2026-05-26T22:01:36.390206+00:00"
+    },
+    "3493a27252ab9fd6": {
+      "title": "How we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "seen_at": "2026-05-26T22:01:36.390206+00:00"
     }
   },
-  "last_run": "2026-05-25T21:51:59.239644+00:00"
+  "last_run": "2026-05-26T22:01:36.390206+00:00"
 }
