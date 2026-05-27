@@ -229,7 +229,17 @@
       "title": "How we contain Claude across products",
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
       "seen_at": "2026-05-26T22:01:36.390206+00:00"
+    },
+    "e6d9b1dc9b12d8a6": {
+      "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea",
+      "seen_at": "2026-05-27T22:08:11.729117+00:00"
+    },
+    "1ac30be38a0e4cde": {
+      "title": "How we built Claude Code auto mode: a safer way to skip permissions",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
+      "seen_at": "2026-05-27T22:08:11.729117+00:00"
     }
   },
-  "last_run": "2026-05-26T22:01:36.390206+00:00"
+  "last_run": "2026-05-27T22:08:11.729117+00:00"
 }

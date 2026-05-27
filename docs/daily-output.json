@@ -1,27 +1,33 @@
 {
-  "date": "2026-05-27",
-  "generated_at": "2026-05-27T07:01:36.389856+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低1件",
-  "items_high": [],
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T07:08:11.728755+09:00",
+  "summary_line": "本日Anthropic新着: 高1件 / 中1件 / 低0件",
+  "items_high": [
+    {
+      "importance": "high",
+      "categories": [
+        "業界動向",
+        "日本関連"
+      ],
+      "summary": "Anthropicが韓国代表取締役を任命、ソウルオフィス開設へ",
+      "translation_hint": "pj AI提案「日本市場含むアジア展開加速」の根拠材料。6月ピッチのマクロ文脈スライドに追加候補",
+      "connection_note_seed": "韓国→日本の順でアジア拠点整備が進むパターンは、グローバル企業の東アジア展開セオリーと一致。飯塚製作所のグローバル取引先動向とも接続できる可能性",
+      "url": "https://www.anthropic.com/news/kiyoung-choi-representative-director-anthropic-korea"
+    }
+  ],
   "items_medium": [
     {
       "importance": "medium",
       "categories": [
-        "運用",
-        "セキュリティ",
-        "新機能"
+        "新機能",
+        "運用"
       ],
-      "summary": "Anthropicが複数プロダクト間でClaudeの動作をどう制御・封じ込めているかの技術解説",
-      "translation_hint": "pj AI提案の'試す・残す'フレーム補強材料。社内展開時のAI信頼性・制御性の根拠として6月ピッチのStep3に追加候補",
-      "connection_note_seed": "製造現場でのAI展開における「制御可能性」設計と冷間鍛造の公差管理思想の類比—どちらも「逸脱を許容範囲内に収める」アーキテクチャ",
-      "url": "https://www.anthropic.com/engineering/how-we-contain-claude"
+      "summary": "Claude Codeのauto mode実装詳説：パーミッション省略の安全設計",
+      "translation_hint": "視覚検査AIプロジェクトの自動化パイプライン設計議論で参照可。「安全に自動化を段階拡張する」設計思想はAVIワークフローにも転用できる",
+      "connection_note_seed": "「パーミッション省略の安全設計」は冷間鍛造の段取り自動化（人介在ポイントをどこに残すか）と構造的に同形。編集工学的に「委任の粒度設計」として抽象化できる",
+      "url": "https://www.anthropic.com/engineering/claude-code-auto-mode"
     }
   ],
-  "items_low_titles": [
-    {
-      "title": "法王レオ14世の回勅「Magnifica humanitas」へのChris Olahのコメント",
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
-    }
-  ],
+  "items_low_titles": [],
   "has_content": true
 }
