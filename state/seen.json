@@ -239,7 +239,22 @@
       "title": "How we built Claude Code auto mode: a safer way to skip permissions",
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
       "seen_at": "2026-05-28T22:07:29.888173+00:00"
+    },
+    "43ac94435ead3653": {
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "url": "https://www.anthropic.com/news/milan-office-opening",
+      "seen_at": "2026-05-29T22:06:15.165380+00:00"
+    },
+    "e48de7d2881acc99": {
+      "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+      "url": "https://www.anthropic.com/news/series-h",
+      "seen_at": "2026-05-29T22:06:15.165380+00:00"
+    },
+    "f370ce13f1a7e374": {
+      "title": "Introducing Claude Opus 4.8",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "seen_at": "2026-05-29T22:06:15.165380+00:00"
     }
   },
-  "last_run": "2026-05-28T22:07:29.888173+00:00"
+  "last_run": "2026-05-29T22:06:15.165380+00:00"
 }
