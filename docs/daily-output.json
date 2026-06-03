@@ -1,31 +1,31 @@
 {
-  "date": "2026-06-03",
-  "generated_at": "2026-06-03T07:17:12.437327+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中1件 / 低0件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "業界動向",
-        "その他"
-      ],
-      "summary": "AnthropicがSECにS-1草案を機密提出、IPO準備へ",
-      "translation_hint": "pj AI提案の6月ピッチ資料に「Anthropicの事業安定性・信頼性」根拠として追加候補。投資家向け開示=透明性の証左として使える",
-      "connection_note_seed": "IPO準備企業としてのAnthropicと、AI調達リスク管理の観点を接続。製造業がAIベンダー選定する際の「企業継続性」評価軸への接続可能性",
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
-    }
-  ],
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T07:18:24.378906+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中2件 / 低0件",
+  "items_high": [],
   "items_medium": [
     {
       "importance": "medium",
       "categories": [
+        "セキュリティ",
         "業界動向",
-        "その他"
+        "論文"
       ],
-      "summary": "Project Glasswing（教育・社会貢献系プログラム）の拡張発表",
-      "translation_hint": null,
-      "connection_note_seed": "社会福祉×AI企業のCSR活動という接続。Anthropicが商業的成功（IPO）と社会的責任を同時進行させる構造は、編集工学的な「二重運動」として読める可能性",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing"
+      "summary": "1年分のAI悪用サイバー脅威をMITRE ATT&CKでマッピングした調査報告",
+      "translation_hint": "pj AI提案の「リスク管理」スライドに引用可。AI導入の安全性根拠として",
+      "connection_note_seed": "MITRE ATT&CKフレームワーク × 冷間鍛造工場のOTセキュリティリスク——製造現場AI導入時の脅威モデリングへの応用可能性",
+      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack"
+    },
+    {
+      "importance": "medium",
+      "categories": [
+        "新機能",
+        "業界動向"
+      ],
+      "summary": "Claude Partner NetworkにServicesトラックとPartner Hubを新設",
+      "translation_hint": "pj AI提案の「外部連携・実装支援」パートで、導入ルート説明の補足資料として活用可",
+      "connection_note_seed": null,
+      "url": "https://www.anthropic.com/news/services-track-partner-hub"
     }
   ],
   "items_low_titles": [],
