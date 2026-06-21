@@ -1,9 +1,100 @@
 {
-  "date": "2026-06-21",
-  "generated_at": "2026-06-21T06:52:36.385707+09:00",
-  "summary_line": "本日Anthropic新着なし",
-  "items_high": [],
-  "items_medium": [],
+  "date": "2026-06-22",
+  "generated_at": "2026-06-22T06:57:58.208439+09:00",
+  "summary_line": "本日Anthropic新着: 高5件 / 中3件 / 低0件",
+  "items_high": [
+    {
+      "importance": "high",
+      "categories": [
+        "モデル",
+        "新機能"
+      ],
+      "summary": "Claude Fable 5・Mythos 5の新モデル2種を発表",
+      "translation_hint": "pj AI提案ピッチの '試す' フレーム冒頭に最新モデル紹介として追加候補",
+      "connection_note_seed": "Fable（物語）・Mythos（神話）という命名──編集工学的な物語構造との接続。モデル特性の差異を冷間鍛造の材料グレード選定になぞらえる比喩が使えるか？",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5"
+    },
+    {
+      "importance": "high",
+      "categories": [
+        "業界動向",
+        "運用"
+      ],
+      "summary": "DXCが銀行・航空など規制産業のシステムにClaudeを統合",
+      "translation_hint": "pj AI提案で '規制産業でも採用実績あり' の文脈強化材料。製造業QC・品質保証部門向け説得材料として有効",
+      "connection_note_seed": "航空・金融の規制産業への展開──冷間鍛造の品質規格（ISO/IATF）適用環境との類比。規制下でのAI信頼性設計という共通課題",
+      "url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
+    },
+    {
+      "importance": "high",
+      "categories": [
+        "業界動向",
+        "運用"
+      ],
+      "summary": "TCS×Anthropicが規制産業向けClaude提供でパートナー締結",
+      "translation_hint": "DXC記事（記事3）と合わせて、規制産業対応の実績二重引用として6月ピッチの信頼性スライドに使える",
+      "connection_note_seed": null,
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership"
+    },
+    {
+      "importance": "high",
+      "categories": [
+        "モデル",
+        "業界動向",
+        "セキュリティ"
+      ],
+      "summary": "米政府がFable 5・Mythos 5へのアクセス停止を指示、声明発表",
+      "translation_hint": "pj AI提案でリスク項目として言及必須。'外部規制リスクへの対応' として運用計画に組み込む検討材料",
+      "connection_note_seed": "政府によるAIアクセス停止指令──進化論的な「環境変化による淘汰圧」と類比可。因果推論的に見た政策介入のモデルとして、AI導入リスク設計の思考実験に使える",
+      "url": "https://www.anthropic.com/news/fable-mythos-access"
+    },
+    {
+      "importance": "high",
+      "categories": [
+        "業界動向",
+        "日本関連"
+      ],
+      "summary": "AnthropicがソウルオフィスをオープンしKAIエコシステムと連携",
+      "translation_hint": "日本隣接の東アジア展開として、6月ピッチの '国内外普及状況' スライドに追加。韓国製造業との競争文脈でも言及可",
+      "connection_note_seed": "韓国拠点化──日韓製造業のデジタル化競争と接続。飯塚製作所が属するサプライチェーンへの波及を中期的に考察するノート候補",
+      "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem"
+    }
+  ],
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "業界動向",
+        "その他"
+      ],
+      "summary": "AnthropicによるAI指数的成長時代の政策提言を公開",
+      "translation_hint": "6月ピッチの '社会的文脈' スライドに、AI普及加速の根拠資料として引用可",
+      "connection_note_seed": "指数的成長の政策論──因果推論（介入タイミング）や進化論（淘汰速度）との接続。製造業規制環境変化の予測フレームとして読み替えられるか？",
+      "url": "https://www.anthropic.com/policy-on-the-ai-exponential"
+    },
+    {
+      "importance": "medium",
+      "categories": [
+        "業界動向",
+        "その他"
+      ],
+      "summary": "Claude Corpsプログラムを新設、詳細は要確認",
+      "translation_hint": null,
+      "connection_note_seed": "Corps（軍団・部隊）という命名──組織的AI展開の新モデル。社内AI推進チーム立ち上げ構想との接続候補",
+      "url": "https://www.anthropic.com/news/claude-corps"
+    },
+    {
+      "importance": "medium",
+      "categories": [
+        "運用",
+        "その他"
+      ],
+      "summary": "AnthropicのPublic Record第1回結果を公開、透明性レポート",
+      "translation_hint": "pj AI提案の '安全性・透明性' パートで、Anthropicのガバナンス姿勢の根拠資料として引用可",
+      "connection_note_seed": "Public Record（公開記録）制度──社会福祉領域のアカウンタビリティ設計との接続。組織的透明性を担保する仕組みとして比較検討できるか？",
+      "url": "https://www.anthropic.com/news/anthropic-public-record"
+    }
+  ],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }
