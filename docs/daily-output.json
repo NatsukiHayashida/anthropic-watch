@@ -1,21 +1,9 @@
 {
-  "date": "2026-06-27",
-  "generated_at": "2026-06-27T06:55:20.876602+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T06:47:46.878557+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "新機能",
-        "モデル"
-      ],
-      "summary": "Claude Tagという新機能・サービスをAnthropicが発表",
-      "translation_hint": "pj AI提案ピッチのAnthropicサービス紹介スライドに追加候補。新機能のGA事例として活用可",
-      "connection_note_seed": null,
-      "url": "https://www.anthropic.com/news/introducing-claude-tag"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
