@@ -249,7 +249,27 @@
       "title": "Introducing Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
       "seen_at": "2026-07-04T22:24:57.690614+00:00"
+    },
+    "734a9f2fa26e032d": {
+      "title": "Claude Science, an AI workbench for scientists, is now available",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "seen_at": "2026-07-05T22:28:20.810170+00:00"
+    },
+    "fb878bec7bc344df": {
+      "title": "Introducing Claude Sonnet 5",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "seen_at": "2026-07-05T22:28:20.810170+00:00"
+    },
+    "885a068f2b6b3cfd": {
+      "title": "Redeploying Fable 5",
+      "url": "https://www.anthropic.com/news/redeploying-fable-5",
+      "seen_at": "2026-07-05T22:28:20.810170+00:00"
+    },
+    "d7be4f84f3668792": {
+      "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
+      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
+      "seen_at": "2026-07-05T22:28:20.810170+00:00"
     }
   },
-  "last_run": "2026-07-04T22:24:57.690614+00:00"
+  "last_run": "2026-07-05T22:28:20.810170+00:00"
 }
