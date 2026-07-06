@@ -1,54 +1,9 @@
 {
-  "date": "2026-07-06",
-  "generated_at": "2026-07-06T07:28:20.809825+09:00",
-  "summary_line": "本日Anthropic新着: 高2件 / 中2件 / 低0件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "新機能",
-        "モデル"
-      ],
-      "summary": "科学者向けAIワークベンチ「Claude Science」が正式提供開始",
-      "translation_hint": "視覚検査AIプロジェクトの社内ピッチ資料で『産業×AI』事例として引用可。PatchCore等の研究ワークフロー効率化の文脈で補強材料になる",
-      "connection_note_seed": "科学者向けワークベンチという設計思想は、冷間鍛造の金型設計フローにおけるAI補助の議論と接続できる。編集工学的に『専門知をどう構造化するか』というテーマとも連結点あり",
-      "url": "https://www.anthropic.com/news/claude-science-ai-workbench"
-    },
-    {
-      "importance": "high",
-      "categories": [
-        "モデル"
-      ],
-      "summary": "新モデル「Claude Sonnet 5」発表・リリース",
-      "translation_hint": "pj AI提案ピッチの『最新モデル活用』スライドに即追加候補。個人API自費運用コストへの影響確認も要チェック",
-      "connection_note_seed": null,
-      "url": "https://www.anthropic.com/news/claude-sonnet-5"
-    }
-  ],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "その他",
-        "セキュリティ"
-      ],
-      "summary": "AnthropicによるFable 5の再展開（運用・安全性関連の動き）",
-      "translation_hint": null,
-      "connection_note_seed": "Fable（寓話）という固有名詞が気になる。AIシステムの命名とストーリーテリングの関係は編集工学的観点から接続できるかもしれない",
-      "url": "https://www.anthropic.com/news/redeploying-fable-5"
-    },
-    {
-      "importance": "medium",
-      "categories": [
-        "セキュリティ",
-        "その他"
-      ],
-      "summary": "Fable 5のサイバー保護機能とjailbreakフレームワークの詳細公開",
-      "translation_hint": "社内AI導入提案でセキュリティ・ガバナンス面の懸念に答えるスライド（'試す'フェーズのリスク管理）に引用可",
-      "connection_note_seed": "jailbreakフレームワークの公開という動きは、AIの安全設計を『可視化する』姿勢として因果推論的な透明性議論と接続できる",
-      "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework"
-    }
-  ],
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T07:43:11.828510+09:00",
+  "summary_line": "本日Anthropic新着なし",
+  "items_high": [],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
