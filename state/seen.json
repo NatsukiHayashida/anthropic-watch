@@ -1,25 +1,5 @@
 {
   "seen_ids": {
-    "4d88b90f8dd2d5b3": {
-      "title": "Claude is a space to think",
-      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-      "seen_at": "2026-06-08T22:04:00.089971+00:00"
-    },
-    "cb55d775b1f3f295": {
-      "title": "What 81,000 people want from AI",
-      "url": "https://www.anthropic.com/81k-interviews",
-      "seen_at": "2026-06-08T22:04:00.089971+00:00"
-    },
-    "bdec8c17eaf187ff": {
-      "title": "Project Glasswing",
-      "url": "https://www.anthropic.com/glasswing",
-      "seen_at": "2026-06-08T22:04:00.089971+00:00"
-    },
-    "6690abcf35a70067": {
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "seen_at": "2026-06-08T22:04:00.089971+00:00"
-    },
     "255bbc5de8882acf": {
       "title": "An update on our election safeguards",
       "url": "https://www.anthropic.com/news/election-safeguards-update",
@@ -28,117 +8,117 @@
     "1d14423c74891603": {
       "title": "Introducing Contextual Retrieval",
       "url": "https://www.anthropic.com/engineering/contextual-retrieval",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "b2e75b4b547ff386": {
       "title": "Building effective agents",
       "url": "https://www.anthropic.com/engineering/building-effective-agents",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "3f04313990ce751e": {
       "title": "Raising the bar on SWE-bench Verified with Claude 3.5 Sonnet",
       "url": "https://www.anthropic.com/engineering/swe-bench-sonnet",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "2377f2bebc2e3b89": {
       "title": "The \"think\" tool: Enabling Claude to stop and think in complex tool use situations",
       "url": "https://www.anthropic.com/engineering/claude-think-tool",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "2ef2d73577b8d4e9": {
       "title": "Claude Code: Best practices for agentic coding",
       "url": "https://www.anthropic.com/engineering/claude-code-best-practices",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "bd80420cde1accc0": {
       "title": "How we built our multi-agent research system",
       "url": "https://www.anthropic.com/engineering/multi-agent-research-system",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "c4a5c5160ca8353e": {
       "title": "Desktop Extensions: One-click MCP server installation for Claude Desktop",
       "url": "https://www.anthropic.com/engineering/desktop-extensions",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "1a6b0e6b4bd165a1": {
       "title": "Writing effective tools for agents — with agents",
       "url": "https://www.anthropic.com/engineering/writing-tools-for-agents",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "7844755a0a048fa8": {
       "title": "A postmortem of three recent issues",
       "url": "https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "43f7bdce5651d4e0": {
       "title": "Effective context engineering for AI agents",
       "url": "https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "89ba238ab16389ba": {
       "title": "Equipping agents for the real world with Agent Skills",
       "url": "https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "451a2a2a8050e0fe": {
       "title": "Beyond permission prompts: making Claude Code more secure and autonomous",
       "url": "https://www.anthropic.com/engineering/claude-code-sandboxing",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "d68d7cae06f7f4ce": {
       "title": "Code execution with MCP: Building more efficient agents",
       "url": "https://www.anthropic.com/engineering/code-execution-with-mcp",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "21c4569831bb7846": {
       "title": "Introducing advanced tool use on the Claude Developer Platform",
       "url": "https://www.anthropic.com/engineering/advanced-tool-use",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "bb9854a8c4e0a0c1": {
       "title": "Effective harnesses for long-running agents",
       "url": "https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "7a76be286a3818da": {
       "title": "Demystifying evals for AI agents",
       "url": "https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "56e9469dc9564bb8": {
       "title": "Designing AI-resistant technical evaluations",
       "url": "https://www.anthropic.com/engineering/AI-resistant-technical-evaluations",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "69b98d248feb2c85": {
       "title": "Building a C compiler with a team of parallel Claudes",
       "url": "https://www.anthropic.com/engineering/building-c-compiler",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "54a3853650b09380": {
       "title": "Quantifying infrastructure noise in agentic coding evals",
       "url": "https://www.anthropic.com/engineering/infrastructure-noise",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "6ec7a1c652ae827c": {
       "title": "Eval awareness in Claude Opus 4.6’s BrowseComp performance",
       "url": "https://www.anthropic.com/engineering/eval-awareness-browsecomp",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "a4d5d8517bba730a": {
       "title": "Harness design for long-running application development",
       "url": "https://www.anthropic.com/engineering/harness-design-long-running-apps",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "dcff89dfa25e092b": {
       "title": "Scaling Managed Agents: Decoupling the brain from the hands",
       "url": "https://www.anthropic.com/engineering/managed-agents",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "677198fc92c5b942": {
       "title": "An update on recent Claude Code quality reports",
       "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "a5d898a2328389b6": {
       "title": "Widening the conversation on frontier AI",
@@ -158,7 +138,7 @@
     "3493a27252ab9fd6": {
       "title": "How we contain Claude across products",
       "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "e6d9b1dc9b12d8a6": {
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea ahead of Seoul office opening",
@@ -168,7 +148,7 @@
     "1ac30be38a0e4cde": {
       "title": "How we built Claude Code auto mode: a safer way to skip permissions",
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "43ac94435ead3653": {
       "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
@@ -213,12 +193,12 @@
     "3d8f7972a959ae6c": {
       "title": "Policy on the AI Exponential",
       "url": "https://www.anthropic.com/policy-on-the-ai-exponential",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "94f9016ef1ca2a49": {
       "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
       "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "a8c4867c7d19e211": {
       "title": "Introducing Claude Corps",
@@ -228,48 +208,48 @@
     "038d5374f4a2f514": {
       "title": "TCS and Anthropic partner to bring Claude to regulated industries",
       "url": "https://www.anthropic.com/news/tcs-anthropic-partnership",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "63e4e5f3133f0311": {
       "title": "Results from the first Anthropic Public Record",
       "url": "https://www.anthropic.com/news/anthropic-public-record",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "6965e97e8037b7f4": {
       "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
       "url": "https://www.anthropic.com/news/fable-mythos-access",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "b140d3916d1d2182": {
       "title": "Anthropic opens Seoul office and announces new partnerships across the Korean AI ecosystem",
       "url": "https://www.anthropic.com/news/seoul-office-partnerships-korean-ai-ecosystem",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "47008fb39ec16e5f": {
       "title": "Introducing Claude Tag",
       "url": "https://www.anthropic.com/news/introducing-claude-tag",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "734a9f2fa26e032d": {
       "title": "Claude Science, an AI workbench for scientists, is now available",
       "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "fb878bec7bc344df": {
       "title": "Introducing Claude Sonnet 5",
       "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "885a068f2b6b3cfd": {
       "title": "Redeploying Fable 5",
       "url": "https://www.anthropic.com/news/redeploying-fable-5",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     },
     "d7be4f84f3668792": {
       "title": "More details on Fable 5’s cyber safeguards and our jailbreak framework",
       "url": "https://www.anthropic.com/news/fable-safeguards-jailbreak-framework",
-      "seen_at": "2026-07-08T22:30:17.773496+00:00"
+      "seen_at": "2026-07-09T22:47:08.812377+00:00"
     }
   },
-  "last_run": "2026-07-08T22:30:17.773496+00:00"
+  "last_run": "2026-07-09T22:47:08.812377+00:00"
 }
