@@ -1,30 +1,9 @@
 {
-  "date": "2026-07-29",
-  "generated_at": "2026-07-29T07:30:59.217637+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中0件 / 低5件",
+  "date": "2026-07-30",
+  "generated_at": "2026-07-30T07:26:43.071925+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
   "items_medium": [],
-  "items_low_titles": [
-    {
-      "title": "The Making of Claude Code",
-      "url": "https://www.anthropic.com/features/making-of-claude-code"
-    },
-    {
-      "title": "UST is bringing Claude to physical AI",
-      "url": "https://www.anthropic.com/news/ust-claude"
-    },
-    {
-      "title": "Inviting hard questions",
-      "url": "https://www.anthropic.com/news/hard-questions"
-    },
-    {
-      "title": "Anthropic commits $10 million to Canadian AI resea",
-      "url": "https://www.anthropic.com/news/canadian-ai-research"
-    },
-    {
-      "title": "Introducing Claude for Teachers",
-      "url": "https://www.anthropic.com/news/claude-for-teachers"
-    }
-  ],
-  "has_content": true
+  "items_low_titles": [],
+  "has_content": false
 }
