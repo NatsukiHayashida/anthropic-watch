@@ -1,19 +1,18 @@
 {
-  "date": "2026-08-04",
-  "generated_at": "2026-08-04T07:32:11.792086+09:00",
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T07:33:32.821506+09:00",
   "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
   "items_high": [],
   "items_medium": [
     {
       "importance": "medium",
       "categories": [
-        "セキュリティ",
-        "論文"
+        "業界動向"
       ],
-      "summary": "Anthropicがサイバーセキュリティ評価で3件の実世界インシデントを調査報告",
-      "translation_hint": "pj AI提案の安全性・信頼性パートで「Anthropicは自社モデルのリスクをこう評価している」と引用可。6月ピッチのリスク説明スライドに活用候補",
-      "connection_note_seed": "モデルの能力評価と実世界インシデントの接続→因果推論的アプローチ（評価設計と実被害の因果）×視覚検査AIのRecall 100%要件との類比：見逃しゼロの評価基準をどう設計するか",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
+      "summary": "前カリフォルニア最高裁判事Cuéllar氏がAnthropicのChief Global Affairs Officerに就任",
+      "translation_hint": "pj AI提案の『Anthropicは誰が動かしているか』スライドに追記候補。政策・規制対応の強化を示す材料として信頼性訴求に使える",
+      "connection_note_seed": "法曹出身者がAI企業のグローバル政策トップに就く流れ→AI規制・ガバナンスと法制度の接続。因果推論×政策評価の文脈とも繋がる",
+      "url": "https://www.anthropic.com/news/tino-cuellar"
     }
   ],
   "items_low_titles": [],

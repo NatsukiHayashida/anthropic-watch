@@ -125,31 +125,6 @@
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
       "seen_at": "2026-08-02T22:24:11.163030+00:00"
     },
-    "f370ce13f1a7e374": {
-      "title": "Introducing Claude Opus 4.8",
-      "url": "https://www.anthropic.com/news/claude-opus-4-8",
-      "seen_at": "2026-07-04T22:24:57.690614+00:00"
-    },
-    "1f30858ff05ac3d3": {
-      "title": "Expanding Project Glasswing",
-      "url": "https://www.anthropic.com/news/expanding-project-glasswing",
-      "seen_at": "2026-07-04T22:24:57.690614+00:00"
-    },
-    "a8dbf3c7b9fda251": {
-      "title": "What we learned mapping a year’s worth of AI-enabled cyber threats",
-      "url": "https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack",
-      "seen_at": "2026-07-04T22:24:57.690614+00:00"
-    },
-    "43c1f335bdab5224": {
-      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network",
-      "url": "https://www.anthropic.com/news/services-track-partner-hub",
-      "seen_at": "2026-07-04T22:24:57.690614+00:00"
-    },
-    "727bbc667f47e75c": {
-      "title": "Claude Fable 5 and Claude Mythos 5",
-      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-      "seen_at": "2026-07-04T22:24:57.690614+00:00"
-    },
     "3d8f7972a959ae6c": {
       "title": "Policy on the AI Exponential",
       "url": "https://www.anthropic.com/policy-on-the-ai-exponential",
@@ -159,11 +134,6 @@
       "title": "DXC will integrate Claude into the systems banks, airlines, and other regulated industries rely on",
       "url": "https://www.anthropic.com/news/dxc-anthropic-alliance",
       "seen_at": "2026-07-27T22:31:51.231512+00:00"
-    },
-    "a8c4867c7d19e211": {
-      "title": "Introducing Claude Corps",
-      "url": "https://www.anthropic.com/news/claude-corps",
-      "seen_at": "2026-07-04T22:24:57.690614+00:00"
     },
     "038d5374f4a2f514": {
       "title": "TCS and Anthropic partner to bring Claude to regulated industries",
@@ -274,7 +244,12 @@
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "seen_at": "2026-08-03T22:32:11.792405+00:00"
+    },
+    "c317477df387d498": {
+      "title": "Mariano-Florentino (Tino) Cuéllar to join Anthropic as Chief Global Affairs Officer",
+      "url": "https://www.anthropic.com/news/tino-cuellar",
+      "seen_at": "2026-08-04T22:33:32.821835+00:00"
     }
   },
-  "last_run": "2026-08-03T22:32:11.792405+00:00"
+  "last_run": "2026-08-04T22:33:32.821835+00:00"
 }
