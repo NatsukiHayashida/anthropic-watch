@@ -1,20 +1,9 @@
 {
-  "date": "2026-08-05",
-  "generated_at": "2026-08-05T07:33:32.821506+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T07:32:41.824808+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "業界動向"
-      ],
-      "summary": "前カリフォルニア最高裁判事Cuéllar氏がAnthropicのChief Global Affairs Officerに就任",
-      "translation_hint": "pj AI提案の『Anthropicは誰が動かしているか』スライドに追記候補。政策・規制対応の強化を示す材料として信頼性訴求に使える",
-      "connection_note_seed": "法曹出身者がAI企業のグローバル政策トップに就く流れ→AI規制・ガバナンスと法制度の接続。因果推論×政策評価の文脈とも繋がる",
-      "url": "https://www.anthropic.com/news/tino-cuellar"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
