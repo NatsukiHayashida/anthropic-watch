@@ -1,21 +1,9 @@
 {
-  "date": "2026-08-08",
-  "generated_at": "2026-08-08T07:03:03.325240+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T06:52:43.200688+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "セキュリティ",
-        "モデル"
-      ],
-      "summary": "Fable 5の生物学的安全策改善に関するAnthropicの取り組み報告",
-      "translation_hint": "pj AI提案の安全性・信頼性パートで「Anthropicはバイオリスク対策にも積極投資」として引用可",
-      "connection_note_seed": "生物学的安全策×進化論・生命科学の接続点。「AIが生物兵器悪用を防ぐ仕組み」は生命の設計原理を逆照射する視点になりうる",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
