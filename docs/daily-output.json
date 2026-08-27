@@ -1,9 +1,14 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-25T06:50:49.236746+09:00",
-  "summary_line": "本日Anthropic新着なし",
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T09:55:11.633990+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中0件 / 低1件",
   "items_high": [],
   "items_medium": [],
-  "items_low_titles": [],
-  "has_content": false
+  "items_low_titles": [
+    {
+      "title": "AnthropicがAIのウェルビーイングへの影響評価研究に助成金を提供",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants"
+    }
+  ],
+  "has_content": true
 }
