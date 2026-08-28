@@ -1,14 +1,33 @@
 {
-  "date": "2026-08-27",
-  "generated_at": "2026-08-27T09:55:11.633990+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中0件 / 低1件",
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T14:30:38.985002+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中2件 / 低0件",
   "items_high": [],
-  "items_medium": [],
-  "items_low_titles": [
+  "items_medium": [
     {
-      "title": "AnthropicがAIのウェルビーイングへの影響評価研究に助成金を提供",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants"
+      "importance": "medium",
+      "categories": [
+        "業界動向",
+        "その他"
+      ],
+      "summary": "Anthropicが科学者支援プログラムを拡充・発表",
+      "translation_hint": "視覚検査AIプロジェクトの社内ピッチで『研究用途への信頼性』補強材料として使える可能性あり",
+      "connection_note_seed": "科学研究支援とAI活用の接点→因果推論・実験設計分野への応用可能性。冷間鍛造の材料科学研究にも波及するか要観察",
+      "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
+    },
+    {
+      "importance": "medium",
+      "categories": [
+        "モデル",
+        "業界動向",
+        "論文"
+      ],
+      "summary": "AIモデル向けハードウェア標準のリサーチプレビューを公開",
+      "translation_hint": "pj AI提案のインフラ・運用コスト議論パートで参照可。将来的なオンプレ検討時の判断材料",
+      "connection_note_seed": "ハードウェア標準化の動き→冷間鍛造における金型規格標準化との構造的類似。産業標準がイノベーションを加速or制約する議論と接続可能",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     }
   ],
+  "items_low_titles": [],
   "has_content": true
 }
