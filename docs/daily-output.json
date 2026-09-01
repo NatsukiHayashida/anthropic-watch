@@ -1,9 +1,45 @@
 {
-  "date": "2026-09-01",
-  "generated_at": "2026-09-01T09:41:23.441257+09:00",
-  "summary_line": "本日Anthropic新着なし",
-  "items_high": [],
-  "items_medium": [],
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T08:26:14.991195+09:00",
+  "summary_line": "本日Anthropic新着: 高1件 / 中2件 / 低0件",
+  "items_high": [
+    {
+      "importance": "high",
+      "categories": [
+        "モデル",
+        "新機能"
+      ],
+      "summary": "新モデルClaude Fable 5.1・Claude Mythos 5.1を発表",
+      "translation_hint": "pj AI提案のモデル選定スライド更新必須。視覚検査AIプロジェクトの性能評価対象として検討余地あり。",
+      "connection_note_seed": "Fable（寓話）・Mythos（神話）という命名→編集工学的な「物語と知識構造」への接続。モデルの役割分担が神話体系のように階層化されていく進化論的観点。",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    }
+  ],
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "セキュリティ",
+        "業界動向"
+      ],
+      "summary": "Anthropicのアライメント・セキュリティ強化施策の概要発表",
+      "translation_hint": "pj AI提案の信頼性・安全性スライドに引用可。「Anthropicは安全を中核に置く会社」の根拠として。",
+      "connection_note_seed": "アライメント＝価値観の整合→冷間鍛造の品質基準策定プロセスと構造的に類似。「何を正解とするかを先に決める」共通性。",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    },
+    {
+      "importance": "medium",
+      "categories": [
+        "新機能",
+        "セキュリティ",
+        "業界動向"
+      ],
+      "summary": "エンタープライズ向けフロンティアセーフガードを顧客と共同開発",
+      "translation_hint": "pj AI内部ピッチ Step3「運用・ガバナンス」パートの補強材料。大企業がAnthropicと安全設計を共同開発している実例として。",
+      "connection_note_seed": null,
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
+    }
+  ],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }

@@ -229,7 +229,22 @@
       "title": "Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "seen_at": "2026-09-01T00:41:23.441490+00:00"
+    },
+    "ae8373ca498eb45f": {
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "seen_at": "2026-09-01T23:26:14.991539+00:00"
+    },
+    "28a44be7ca5fd490": {
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "seen_at": "2026-09-01T23:26:14.991539+00:00"
+    },
+    "f259d011e529f14b": {
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "seen_at": "2026-09-01T23:26:14.991539+00:00"
     }
   },
-  "last_run": "2026-09-01T00:41:23.441490+00:00"
+  "last_run": "2026-09-01T23:26:14.991539+00:00"
 }
