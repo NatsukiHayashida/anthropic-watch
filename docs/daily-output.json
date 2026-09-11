@@ -1,21 +1,9 @@
 {
-  "date": "2026-09-11",
-  "generated_at": "2026-09-11T08:16:34.198104+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-09-12",
+  "generated_at": "2026-09-12T08:23:55.907732+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "セキュリティ",
-        "業界動向"
-      ],
-      "summary": "AnthropicによるAI悪用検出・対策レポート（2026年9月版）",
-      "translation_hint": "pj AI提案の「安全性・ガバナンス」スライドで引用可。AI導入リスク懸念への回答材料として有効",
-      "connection_note_seed": null,
-      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
