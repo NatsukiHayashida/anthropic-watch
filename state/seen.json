@@ -229,7 +229,17 @@
       "title": "Detecting and countering misuse of AI: September 2026",
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "seen_at": "2026-09-16T23:41:45.714133+00:00"
+    },
+    "b8e18220458a9b78": {
+      "title": "Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+      "seen_at": "2026-09-17T23:35:15.783142+00:00"
+    },
+    "12ce0f0dcf775d72": {
+      "title": "Measurements for understanding the pace of AI development inside frontier labs",
+      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
+      "seen_at": "2026-09-17T23:35:15.783142+00:00"
     }
   },
-  "last_run": "2026-09-16T23:41:45.714133+00:00"
+  "last_run": "2026-09-17T23:35:15.783142+00:00"
 }
