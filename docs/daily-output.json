@@ -1,21 +1,9 @@
 {
-  "date": "2026-09-19",
-  "generated_at": "2026-09-19T08:25:03.492784+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T08:16:29.652006+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "業界動向",
-        "運用"
-      ],
-      "summary": "AnthropicがAccentureと提携し埋め込み型評価の取り組みを発表",
-      "translation_hint": "pj AI提案の '残す' フレーム補強材料。企業導入時の評価プロセス設計の参考として6月ピッチ資料に活用可",
-      "connection_note_seed": "embedded evaluationは視覚検査AIプロジェクト（AVI/PatchCore）の評価ループ設計と接続可能。Recall 100%目標の継続的検証プロセスに共鳴する概念",
-      "url": "https://www.anthropic.com/news/accenture-embedded-evaluation"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
