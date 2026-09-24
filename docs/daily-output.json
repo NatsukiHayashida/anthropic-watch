@@ -1,34 +1,9 @@
 {
-  "date": "2026-09-24",
-  "generated_at": "2026-09-24T08:48:51.891779+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中1件 / 低0件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "モデル",
-        "論文",
-        "業界動向"
-      ],
-      "summary": "ClaudeがCRISPR様リピートを持つ新規酵素システムを科学的に発見",
-      "translation_hint": "pj AI提案の'試す'フレーム強化材料。AIが単なる補助ツールを超え独自発見を行う事例として、社内ピッチStep1-2枚目に追加候補",
-      "connection_note_seed": "進化論×AI発見：CRISPRは細菌の適応免疫機構（進化的防御）。AIが生命の進化的情報構造を読み解く能力を持つという接続は、因果推論×編集工学の観点でも深掘り価値あり。製造業の材料探索・金属組織解析への応用可能性も視野に",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
-    }
-  ],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "業界動向",
-        "その他"
-      ],
-      "summary": "AnthropicによるエボラウイルスへのAI対応状況レポート",
-      "translation_hint": "pj AI提案の社会的価値・インパクトパートに引用候補。AIの実社会貢献事例として6月ピッチのオープニングに使える可能性あり",
-      "connection_note_seed": "社会福祉×AI：緊急医療・感染症対応へのAI活用は、製造業QCのリアルタイム異常検知（AVIプロジェクト）と「現場での即時判断支援」という構造で接続できる",
-      "url": "https://www.anthropic.com/features/ebola-response"
-    }
-  ],
+  "date": "2026-09-25",
+  "generated_at": "2026-09-25T08:55:16.234484+09:00",
+  "summary_line": "本日Anthropic新着なし",
+  "items_high": [],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
