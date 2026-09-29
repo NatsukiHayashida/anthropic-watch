@@ -234,7 +234,12 @@
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "seen_at": "2026-09-27T23:51:23.479526+00:00"
+    },
+    "c0615ad801834183": {
+      "title": "Introducing Claude Sonnet 5.5",
+      "url": "https://www.anthropic.com/claude-sonnet-5-5",
+      "seen_at": "2026-09-29T01:05:53.724387+00:00"
     }
   },
-  "last_run": "2026-09-27T23:51:23.479526+00:00"
+  "last_run": "2026-09-29T01:05:53.724387+00:00"
 }
