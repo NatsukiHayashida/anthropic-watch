@@ -1,21 +1,9 @@
 {
-  "date": "2026-09-29",
-  "generated_at": "2026-09-29T10:05:53.724119+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "モデル",
-        "新機能"
-      ],
-      "summary": "Claude Sonnet 5.5 正式リリース発表（Anthropic公式）",
-      "translation_hint": "pj AI提案の '試す' フレーム冒頭に追加。最新モデル投入タイミングとして6月ピッチ資料の信頼性を高める材料",
-      "connection_note_seed": "Sonnet系列のバージョン進化トレースと、冷間鍛造視覚検査AVI/PatchCoreへの適用可能性（マルチモーダル性能向上があれば直結）",
-      "url": "https://www.anthropic.com/claude-sonnet-5-5"
-    }
-  ],
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T09:36:57.709864+09:00",
+  "summary_line": "本日Anthropic新着なし",
+  "items_high": [],
   "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
