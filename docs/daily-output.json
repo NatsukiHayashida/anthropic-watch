@@ -1,9 +1,21 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T09:38:45.608927+09:00",
-  "summary_line": "本日Anthropic新着なし",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T09:57:38.168850+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
   "items_high": [],
-  "items_medium": [],
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "業界動向",
+        "その他"
+      ],
+      "summary": "バークレイズがClaudeを業務・顧客体験向上に大規模展開",
+      "translation_hint": "pj AI提案の'残す'フレーム強化材料。大手金融機関の導入事例としてピッチ2〜3枚目に追加候補",
+      "connection_note_seed": "金融機関の大規模AI展開が冷間鍛造製造業の導入ロードマップ設計に示す示唆——leapfrog構造との比較考察",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude"
+    }
+  ],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }

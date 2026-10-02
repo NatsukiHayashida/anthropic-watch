@@ -125,11 +125,6 @@
       "url": "https://www.anthropic.com/engineering/claude-code-auto-mode",
       "seen_at": "2026-10-01T00:38:45.615672+00:00"
     },
-    "fb878bec7bc344df": {
-      "title": "Introducing Claude Sonnet 5",
-      "url": "https://www.anthropic.com/news/claude-sonnet-5",
-      "seen_at": "2026-09-01T00:41:23.441490+00:00"
-    },
     "3eee0b0af340b84a": {
       "title": "The Making of Claude Code",
       "url": "https://www.anthropic.com/features/making-of-claude-code",
@@ -139,11 +134,6 @@
       "title": "Introducing Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "seen_at": "2026-09-16T23:41:45.714133+00:00"
-    },
-    "98df81660ec4a83d": {
-      "title": "Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "seen_at": "2026-09-01T00:41:23.441490+00:00"
     },
     "4470731a475f4d15": {
       "title": "Our position on open-weights models",
@@ -239,7 +229,12 @@
       "title": "Introducing Claude Sonnet 5.5",
       "url": "https://www.anthropic.com/claude-sonnet-5-5",
       "seen_at": "2026-10-01T00:38:45.615672+00:00"
+    },
+    "a1f39b4c180a23fc": {
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "seen_at": "2026-10-02T00:57:38.169106+00:00"
     }
   },
-  "last_run": "2026-10-01T00:38:45.615672+00:00"
+  "last_run": "2026-10-02T00:57:38.169106+00:00"
 }
