@@ -1,21 +1,9 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-03T09:34:36.977733+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "業界動向",
-        "その他"
-      ],
-      "summary": "Anthropicが1億ドル投資、1万人のエンジニアAI人材育成プログラム発表",
-      "translation_hint": "pj AI提案（6月ピッチ）の'人材育成・社内展開'パートの根拠資料に活用可。AI人材不足は業界共通課題と示せる",
-      "connection_note_seed": "企業内AI人材育成 × 飯塚製作所の'試す・残す・翻訳する'フレーム——外部投資規模と内部草の根展開の対比から、leapfrog型知識蓄積の有効性を論じる接続ノート候補",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy"
-    }
-  ],
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T08:56:31.651200+09:00",
+  "summary_line": "本日Anthropic新着なし",
+  "items_high": [],
   "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
