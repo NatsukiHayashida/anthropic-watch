@@ -1,9 +1,21 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T10:48:14.451823+09:00",
-  "summary_line": "本日Anthropic新着なし",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T09:51:29.984238+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
   "items_high": [],
-  "items_medium": [],
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "セキュリティ",
+        "運用"
+      ],
+      "summary": "AnthropicのサイバーセキュリティVerificationプログラムを拡張",
+      "translation_hint": "pj AI提案のリスク管理・安全性スライドで「Anthropicのセキュリティ姿勢」根拠として引用可",
+      "connection_note_seed": null,
+      "url": "https://www.anthropic.com/news/cyber-verification-program"
+    }
+  ],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }
