@@ -1,21 +1,21 @@
 {
-  "date": "2026-10-07",
-  "generated_at": "2026-10-07T09:51:29.984238+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
-  "items_high": [],
-  "items_medium": [
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T10:07:28.712136+09:00",
+  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
+  "items_high": [
     {
-      "importance": "medium",
+      "importance": "high",
       "categories": [
-        "セキュリティ",
-        "運用"
+        "新機能",
+        "モデル"
       ],
-      "summary": "AnthropicのサイバーセキュリティVerificationプログラムを拡張",
-      "translation_hint": "pj AI提案のリスク管理・安全性スライドで「Anthropicのセキュリティ姿勢」根拠として引用可",
-      "connection_note_seed": null,
-      "url": "https://www.anthropic.com/news/cyber-verification-program"
+      "summary": "Claude Haiku 5.5 正式リリース発表（Anthropic公式）",
+      "translation_hint": "pj AI提案の '試す' フレーム実証材料。軽量・高速モデル刷新はコスト試算スライドに追加候補",
+      "connection_note_seed": "Haiku系モデルの進化サイクルとleapfrog知識蓄積構造の対比——小型モデルの反復改善は冷間鍛造の段階的加工精度向上と構造的に類似する可能性",
+      "url": "https://www.anthropic.com/claude-haiku-5-5"
     }
   ],
+  "items_medium": [],
   "items_low_titles": [],
   "has_content": true
 }
