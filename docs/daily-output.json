@@ -1,21 +1,39 @@
 {
-  "date": "2026-10-08",
-  "generated_at": "2026-10-08T10:07:28.712136+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T10:17:55.383525+09:00",
+  "summary_line": "本日Anthropic新着: 高1件 / 中1件 / 低1件",
   "items_high": [
     {
       "importance": "high",
       "categories": [
-        "新機能",
-        "モデル"
+        "運用",
+        "セキュリティ",
+        "その他"
       ],
-      "summary": "Claude Haiku 5.5 正式リリース発表（Anthropic公式）",
-      "translation_hint": "pj AI提案の '試す' フレーム実証材料。軽量・高速モデル刷新はコスト試算スライドに追加候補",
-      "connection_note_seed": "Haiku系モデルの進化サイクルとleapfrog知識蓄積構造の対比——小型モデルの反復改善は冷間鍛造の段階的加工精度向上と構造的に類似する可能性",
-      "url": "https://www.anthropic.com/claude-haiku-5-5"
+      "summary": "Anthropicが2026年版利用ポリシーを更新、API利用規約に影響の可能性",
+      "translation_hint": "個人API自費運用中のため、rate limit・禁止ユースケース変更点を要チェック。視覚検査AIプロジェクトへの影響確認にも",
+      "connection_note_seed": null,
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update"
     }
   ],
-  "items_medium": [],
-  "items_low_titles": [],
+  "items_medium": [
+    {
+      "importance": "medium",
+      "categories": [
+        "セキュリティ",
+        "業界動向"
+      ],
+      "summary": "AnthropicのサイバーセキュリティミッションをAIセーフティ観点で発表",
+      "translation_hint": "pj AI提案の「安全性・信頼性」スライドに追加候補。AI導入リスク懸念への回答材料として活用可",
+      "connection_note_seed": "サイバーミッションと冷間鍛造ライン的な「防御層設計思想」の接続——どちらも破壊的インシデントを構造で防ぐアーキテクチャ",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+    }
+  ],
+  "items_low_titles": [
+    {
+      "title": "Anthropicが米国科学探求推進へのコミットメントを表明するGenesis Mission発表",
+      "url": "https://www.anthropic.com/news/genesis-mission-commitment"
+    }
+  ],
   "has_content": true
 }
