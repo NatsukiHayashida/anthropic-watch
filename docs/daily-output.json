@@ -1,39 +1,9 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-09T10:17:55.383525+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中1件 / 低1件",
-  "items_high": [
-    {
-      "importance": "high",
-      "categories": [
-        "運用",
-        "セキュリティ",
-        "その他"
-      ],
-      "summary": "Anthropicが2026年版利用ポリシーを更新、API利用規約に影響の可能性",
-      "translation_hint": "個人API自費運用中のため、rate limit・禁止ユースケース変更点を要チェック。視覚検査AIプロジェクトへの影響確認にも",
-      "connection_note_seed": null,
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update"
-    }
-  ],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "セキュリティ",
-        "業界動向"
-      ],
-      "summary": "AnthropicのサイバーセキュリティミッションをAIセーフティ観点で発表",
-      "translation_hint": "pj AI提案の「安全性・信頼性」スライドに追加候補。AI導入リスク懸念への回答材料として活用可",
-      "connection_note_seed": "サイバーミッションと冷間鍛造ライン的な「防御層設計思想」の接続——どちらも破壊的インシデントを構造で防ぐアーキテクチャ",
-      "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
-    }
-  ],
-  "items_low_titles": [
-    {
-      "title": "Anthropicが米国科学探求推進へのコミットメントを表明するGenesis Mission発表",
-      "url": "https://www.anthropic.com/news/genesis-mission-commitment"
-    }
-  ],
-  "has_content": true
+  "date": "2026-10-10",
+  "generated_at": "2026-10-10T10:02:59.369755+09:00",
+  "summary_line": "本日Anthropic新着なし",
+  "items_high": [],
+  "items_medium": [],
+  "items_low_titles": [],
+  "has_content": false
 }
