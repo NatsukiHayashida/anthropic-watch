@@ -1,9 +1,14 @@
 {
-  "date": "2026-10-13",
-  "generated_at": "2026-10-13T11:38:19.565050+09:00",
-  "summary_line": "本日Anthropic新着なし",
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T09:25:32.718572+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中0件 / 低1件",
   "items_high": [],
   "items_medium": [],
-  "items_low_titles": [],
-  "has_content": false
+  "items_low_titles": [
+    {
+      "title": "Anthropic社内のソース管理システム再設計の技術ブログ",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+    }
+  ],
+  "has_content": true
 }

@@ -259,7 +259,12 @@
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "seen_at": "2026-10-13T02:38:19.565272+00:00"
+    },
+    "6ebb1310f588853a": {
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "seen_at": "2026-10-14T00:25:32.718805+00:00"
     }
   },
-  "last_run": "2026-10-13T02:38:19.565272+00:00"
+  "last_run": "2026-10-14T00:25:32.718805+00:00"
 }
