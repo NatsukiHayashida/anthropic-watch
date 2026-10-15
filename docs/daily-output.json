@@ -1,26 +1,22 @@
 {
-  "date": "2026-10-15",
-  "generated_at": "2026-10-15T08:59:16.817673+09:00",
-  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低1件",
-  "items_high": [
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T08:43:52.840243+09:00",
+  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "items_high": [],
+  "items_medium": [
     {
-      "importance": "high",
+      "importance": "medium",
       "categories": [
-        "業界動向",
-        "日本関連"
+        "運用",
+        "セキュリティ",
+        "業界動向"
       ],
-      "summary": "AnthropicがシンガポールにAP拠点を開設、政府とMOU締結",
-      "translation_hint": "pj AI提案の「外部環境」スライドに追加候補。Anthropicのアジア展開加速を示す根拠として活用可",
-      "connection_note_seed": "シンガポール政府×AI企業のMOU構造は、日本の経産省・自治体とのAI協定モデルとの比較軸になりうる。冷間鍛造業界の海外展開（ASEAN）文脈とも接続可",
-      "url": "https://www.anthropic.com/news/singapore-office-opening"
+      "summary": "Anthropicが独立評価者（外部監査）の最新状況を公表",
+      "translation_hint": "pj AI提案の'信頼性・安全性'パートで引用可。外部第三者評価の存在はステークホルダー説得材料になる",
+      "connection_note_seed": "独立評価者制度 ↔ 視覚検査AIのRecall 100%基準設計：外部検証の仕組みをAVIプロジェクトの品質保証フレームに援用できないか",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
     }
   ],
-  "items_medium": [],
-  "items_low_titles": [
-    {
-      "title": "2026年米中間選挙に向けたAnthropicの取り組み方針",
-      "url": "https://www.anthropic.com/news/2026-us-midterms"
-    }
-  ],
+  "items_low_titles": [],
   "has_content": true
 }
