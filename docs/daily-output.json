@@ -1,22 +1,9 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T08:43:52.840243+09:00",
-  "summary_line": "本日Anthropic新着: 高0件 / 中1件 / 低0件",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T08:43:30.712032+09:00",
+  "summary_line": "本日Anthropic新着なし",
   "items_high": [],
-  "items_medium": [
-    {
-      "importance": "medium",
-      "categories": [
-        "運用",
-        "セキュリティ",
-        "業界動向"
-      ],
-      "summary": "Anthropicが独立評価者（外部監査）の最新状況を公表",
-      "translation_hint": "pj AI提案の'信頼性・安全性'パートで引用可。外部第三者評価の存在はステークホルダー説得材料になる",
-      "connection_note_seed": "独立評価者制度 ↔ 視覚検査AIのRecall 100%基準設計：外部検証の仕組みをAVIプロジェクトの品質保証フレームに援用できないか",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
-    }
-  ],
+  "items_medium": [],
   "items_low_titles": [],
-  "has_content": true
+  "has_content": false
 }
