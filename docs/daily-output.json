@@ -1,9 +1,21 @@
 {
-  "date": "2026-10-18",
-  "generated_at": "2026-10-18T08:14:37.966885+09:00",
-  "summary_line": "本日Anthropic新着なし",
-  "items_high": [],
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T08:24:57.032000+09:00",
+  "summary_line": "本日Anthropic新着: 高1件 / 中0件 / 低0件",
+  "items_high": [
+    {
+      "importance": "high",
+      "categories": [
+        "業界動向",
+        "その他"
+      ],
+      "summary": "Anthropicが公益目的のファンド設立・投資を発表",
+      "translation_hint": "pj AI提案の社会的意義スライドに引用可。AIの公益性を示す根拠として活用",
+      "connection_note_seed": "社会福祉×AI投資の接続点。Anthropicの公益法人的性格と冷間鍛造産業への技術還元という文脈でleapfrog構造に組み込める可能性",
+      "url": "https://www.anthropic.com/news/public-benefit-fund"
+    }
+  ],
   "items_medium": [],
   "items_low_titles": [],
-  "has_content": false
+  "has_content": true
 }
